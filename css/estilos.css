@@ -1,0 +1,18 @@
+.il {
+	width: 100%;
+	display: block;
+}
+
+.page{
+	background-image: linear-gradient(#dbdada,#c5b9e5)
+}
+
+.barra-sup, .pie{
+	color: white;
+	background-image: linear-gradient(blue,#004f82)!important
+}
+
+.icono{
+	color:white;
+	font-size: 1.5em;
+}
